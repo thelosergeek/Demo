@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BWow</string>
+    <string name="good_morning_yash">Good Morning, Yash</string>
+    <string name="have_a_great_day_ahead">Have a great day Ahead!</string>
+
+    <string name="hours">HOURS</string>
+</resources>
